@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854599880940",
+    "project_id": "formal-airway-323420",
+    "storage_bucket": "formal-airway-323420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854599880940:android:874086d89c3c0ce98ad5c9",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854599880940-l3n95psa9btpqek04lgucp2jivroor5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwEeyknmMZxSekO_yG_5W1AGIluAdHpZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854599880940-l3n95psa9btpqek04lgucp2jivroor5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
